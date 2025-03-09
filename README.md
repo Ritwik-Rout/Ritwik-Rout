@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ritwik Kumar Rout and I'm a Pre-Final year student, from ITER, SOA University</h2>
+<h2 align="left">Hi 👋! My name is Ritwik Kumar Rout and I'm a Pre-Final year student</h2>
 
 ###
 
