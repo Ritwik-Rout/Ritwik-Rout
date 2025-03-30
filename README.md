@@ -11,13 +11,15 @@ I'm a third-year BTech student passionate about software development, problem-so
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=ED8B00)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![ReactJS](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=43853D)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6)
 
 ---
 
@@ -58,9 +60,9 @@ _HTML | CSS | JavaScript_
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritwikrout-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/ritwikrout/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ritwik--Rout-000000?style=for-the-badge&logo=github)](https://github.com/Ritwik-Rout)
-[![Email](https://img.shields.io/badge/Email-ritwikrout2@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:ritwikrout2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritwikrout-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritwikrout/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ritwik--Rout-181717?style=for-the-badge&logo=github)](https://github.com/Ritwik-Rout)
+[![Email](https://img.shields.io/badge/Email-ritwikrout2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritwikrout2@gmail.com)
 
 ---
 
