@@ -6,29 +6,18 @@ I'm a third-year BTech student passionate about software development, problem-so
 
 ---
 
-## 📚 Education
-🎓 **Institute of Technical Education and Research**  
-_Bachelor of Science in Computer Science & IT (2022 - Present)_  
-**CGPA:** 8.6
-
-📖 **Kendriya Vidyalaya Sundargarh**  
-_Senior Secondary (2020 - 2022)_  
-**Percentage:** 79.3%
-
----
-
 ## 🛠️ Tech Stack & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![ReactJS](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=43853D)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
 
 ---
 
@@ -69,12 +58,12 @@ _HTML | CSS | JavaScript_
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritwikrout-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ritwikrout/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Ritwik--Rout-black?style=for-the-badge&logo=github)](https://github.com/Ritwik-Rout)  
-📧 **Email:** [ritwikrout2@gmail.com](mailto:ritwikrout2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritwikrout-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/ritwikrout/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ritwik--Rout-000000?style=for-the-badge&logo=github)](https://github.com/Ritwik-Rout)
+[![Email](https://img.shields.io/badge/Email-ritwikrout2@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:ritwikrout2@gmail.com)
 
 ---
 
 ⭐ **Feel free to check out my repositories and contribute!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ritwik-Rout&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Ritwik-Rout&color=000000)
