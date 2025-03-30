@@ -1,35 +1,73 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Animated gif" />
-</div>
+### Hi there, I'm Ritwik Kumar Rout! 👋
+
+🚀 **Aspiring Software Developer | Frontend Enthusiast | Curious Learner**
+
+I'm a third-year BTech student passionate about software development, problem-solving, and building intuitive user interfaces. I have a strong foundation in **Data Structures, Algorithms, and Frontend Development** and love creating efficient and user-friendly applications.
 
 ---
 
-### **🌐 Connect With Me:**
+## 📚 Education
+🎓 **Institute of Technical Education and Research**  
+_Bachelor of Science in Computer Science & IT (2022 - Present)_  
+**CGPA:** 8.6
 
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" /></a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username" alt="Visitor Count Badge" />
-</div>
+📖 **Kendriya Vidyalaya Sundargarh**  
+_Senior Secondary (2020 - 2022)_  
+**Percentage:** 79.3%
 
 ---
 
-<h1 align="center">Hey there 👋</h1>
+## 🛠️ Technical Skills
 
-### **👨‍💻 About Me:**
-- 🔭 I’m working as **...**
-- 📚 Currently learning **...**
-- 🌱 Interested in **...**
-- ⚡ Fun fact: **...**
+- **Languages:** Java, C, C++, JavaScript, SQL, HTML/CSS
+- **CS Fundamentals:** Data Structures, Algorithms, OOP
+- **Tools & Platforms:** Linux, Git, GitHub, Windows
 
 ---
 
-### **🛠 Languages & Tools:**
+## 💻 Projects
 
-<div
+### ✈️ [Aero Manage](#)
+_Java | MySQL | Swing_
+- Developed an end-to-end **Airline Management System** with flight booking, passenger management, journey tracking, and ticket cancellation.
+- Integrated **MySQL database** for secure and efficient data storage.
+- Designed an interactive **Java Swing-based GUI**, improving user experience by **40%**.
+
+### 🎵 [Spotify UI Clone](#)
+_HTML | CSS | JavaScript_
+- Created a dynamic **Spotify UI clone**, replicating the platform’s look and feel.
+- Implemented fluid animations and **real-time music controls**.
+- Ensured a **responsive design** for seamless multi-device support.
+
+### 🧠 [MindGrid Challenge](#)
+_HTML | CSS | JavaScript_
+- Developed a **grid-based strategy game** showcasing advanced algorithm design.
+- Engineered robust game logic with efficient state management.
+- Designed a user-friendly interface to enhance engagement.
+
+### 💰 [Currency Converter](#)
+_HTML | CSS | JavaScript_
+- Built a **real-time currency converter** integrating an external API.
+- Optimized API calls with local caching, **reducing response time by 50%**.
+- Ensured a clean and responsive user experience.
+
+---
+
+## 🏆 Achievements
+
+- 🥉 **Bronze Medal** in Regional Level Athletics (2019)
+- 🏅 Awarded **NCC “B” Certificate** for leadership and discipline (2024)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritwikrout-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ritwikrout/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Ritwik--Rout-black?style=flat-square&logo=github)](https://github.com/Ritwik-Rout)  
+📧 **Email:** [ritwikrout2@gmail.com](mailto:ritwikrout2@gmail.com)
+
+---
+
+⭐ **Feel free to check out my repositories and contribute!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ritwik-Rout&color=blue)
